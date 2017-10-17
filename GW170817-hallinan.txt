@@ -1,5 +1,5 @@
 GW170817
-(1)  Hallinan et al. 2017
+(1)  2017arXiv171005435H
 TSTART          Freq         Flux            ErrFlux   Instrument Ref
  (mjd)           (GHz)        (uJy)           (uJy) 
 --------------------------------------------------------------------------------------------
